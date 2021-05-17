@@ -1,0 +1,12 @@
+E:\Загрузки\уник\курсовой_кпияп\мой_курсовой\Library\Library\Debug\Library.vcxprojAssemblyReference.cache
+E:\Загрузки\уник\курсовой_кпияп\мой_курсовой\Library\Library\Debug\Library.MyForm.resources
+E:\Загрузки\уник\курсовой_кпияп\мой_курсовой\Library\Library\Debug\Library.vcxproj.GenerateResource.cache
+E:\мой_курсовой\Library\Library\Debug\Library.vcxprojAssemblyReference.cache
+E:\мой_курсовой\Library\Library\Debug\Library.MyForm.resources
+E:\мой_курсовой\Library\Library\Debug\Library.vcxproj.GenerateResource.cache
+E:\kk\Library\Library\Debug\Library.vcxprojAssemblyReference.cache
+E:\kk\Library\Library\Debug\Library.MyForm.resources
+E:\kk\Library\Library\Debug\Library.vcxproj.GenerateResource.cache
+E:\YandexDisk\Универ\Задания_универ\6_семестр\Тритпо\kk_library\Library\Library\Debug\Library.MyForm.resources
+E:\YandexDisk\Универ\Задания_универ\6_семестр\Тритпо\kk_library\Library\Library\Debug\Library.vcxproj.GenerateResource.cache
+E:\YandexDisk\Универ\Задания_универ\6_семестр\Тритпо\kk_library\Library\Library\Debug\Library.vcxprojAssemblyReference.cache
